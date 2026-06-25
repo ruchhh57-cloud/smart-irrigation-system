@@ -35,7 +35,7 @@ The soil moisture sensor continuously measures the moisture content of the soil.
 5. Gurudarshan
 
 ## Presentation Video
-https://drive.google.com/file/d/1vgxAqD-2ZfYk7mrLrYzbByUa-agBX0Rk/view?usp=drivesdk
+https://youtu.be/XfGFq9XvTlc?si=s4w_ig7Ya-EVt9B2
 
 ## Repository Link
 https://github.com/ruchhh57-cloud/smart-irrigation-system
