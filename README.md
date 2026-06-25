@@ -28,11 +28,11 @@ The soil moisture sensor continuously measures the moisture content of the soil.
 - Plant Monitoring Systems
 
 ## Team Members
-1. Sanika
-2. Varsha
-3. Ruchitha
-4. Abhilash
-5. Gurudarshan
+1. Sanika.MR
+2. Varsha.BS
+3. Ruchitha.MT
+4. Abhilash.P
+5. Gurudarshan.KV
 
 ## Presentation Video
 https://youtu.be/XfGFq9XvTlc?si=s4w_ig7Ya-EVt9B2
